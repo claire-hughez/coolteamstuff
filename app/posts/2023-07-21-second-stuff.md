@@ -1,5 +1,5 @@
 ---
-title: Claire's first cool stuff
+title: Claire's second cool stuff
 description: This example was generated using a script and shows how to automatically include a list of screenshots at the end of your post.
 date: 2019-12-31
 screenshots:
